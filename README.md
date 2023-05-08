@@ -1,3 +1,7 @@
+Just a bunch of resources I've collected for ease-of-access!
+
+
+
 #### Carlos Polop's Hacktricks
 https://book.hacktricks.xyz
 
